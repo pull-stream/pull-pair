@@ -1,7 +1,7 @@
 {
   "name": "pull-pair",
   "description": "pair a source pull-stream and a sink pull-stream",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "homepage": "https://github.com/dominictarr/pull-pair",
   "repository": {
     "type": "git",
